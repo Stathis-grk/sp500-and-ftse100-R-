@@ -58,7 +58,11 @@ First differences: Stationary (t < critical value).
 Conclusion: Both series are best characterized as I(1) processes.
 ![image](https://github.com/user-attachments/assets/c31fa568-7ba8-4de3-9c4f-8b06f2a6a9a0)
 ![image](https://github.com/user-attachments/assets/2e599f0d-3ac4-4db0-93e5-7ea54ed7e3a9)
-  With Differences:
+
+
+with differences:
+
+  
 ![image](https://github.com/user-attachments/assets/31bf53ff-a4b6-4642-9815-12ad875e5b48)
 ![image](https://github.com/user-attachments/assets/a7598e08-d7b1-40b9-9567-e16df3bad17b)
 
