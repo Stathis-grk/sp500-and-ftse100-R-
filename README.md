@@ -60,7 +60,7 @@ Conclusion: Both series are best characterized as I(1) processes.
 ![image](https://github.com/user-attachments/assets/2e599f0d-3ac4-4db0-93e5-7ea54ed7e3a9)
 
 
-with differences:
+### with differences:
 
   
 ![image](https://github.com/user-attachments/assets/31bf53ff-a4b6-4642-9815-12ad875e5b48)
